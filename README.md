@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerofish0&label=Profile%20views&color=0e75b6&style=flat" alt="zerofish0" /> </p>
 
-- 📫 How to reach me **zerofish0@ik.me**
+- 📫 How to reach me **zerofish0@ik.me** or join [my discord !](https://discord.gg/hbwttzBD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

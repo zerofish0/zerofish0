@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇫🇷 French developer<br>🎮 Brawl stars player<br>🔭 I’m currently working on a whatsapp wrapper in pure python<br>🌱 I’m currently learning cobol 💀<br>💬 Ask me about anything you want :)
+🇫🇷 French developer<br>🎮 Brawl stars player<br>🔭 I’m currently working on nothing 💀<br>💬 Ask me about anything you want :)
 
 
 ## 🌐 Socials:
